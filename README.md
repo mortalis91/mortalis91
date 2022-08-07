@@ -1,12 +1,12 @@
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mortalis91&theme=blue-green)](https://github.com/mortalis91/github-readme-stats)
 
-REPOSITORY:
-[![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/) TIPS FOR VIM
-![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label) TIPS FOR BASH
+REPOSITORY: <br/>
+[![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/) [TIPS FOR VIM](https://github.com/mortalis91/learnIT/blob/main/TIPS_FOR_VIM) <br/>
+![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label) [TIPS FOR BASH](https://github.com/mortalis91/learnIT/blob/main/TIPS_FOR_BASH) <br/>
 
-CONTACT:
-[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://https://discord.com/) mortalis91#6875
-[![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com) @mortalis_91
+CONTACT: <br/>
+[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://https://discord.com/) mortalis91#6875 <br/>
+[![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com) @mortalis_91 <br/>
 
 [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/mortalis91/open-source-badges/)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/mortalis91/ama)
