@@ -3,6 +3,7 @@
 REPOSITORY: <br/>
 [![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/) [TIPS FOR VIM](https://github.com/mortalis91/learnIT/blob/main/TIPS_FOR_VIM) <br/>
 ![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label) [TIPS FOR BASH](https://github.com/mortalis91/learnIT/blob/main/TIPS_FOR_BASH) <br/>
+![Terminal](https://badgen.net/badge/icon/git?icon=git&label) [TIPS FOR GIT](https://github.com/mortalis91/learnIT/blob/main/TIPS_FOR_GIT) <br/>
 
 CONTACT: <br/>
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://https://discord.com/) ![](https://dcbadge.vercel.app/api/shield/418770751634800650?style=flat) <br/>
