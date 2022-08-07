@@ -1,5 +1,6 @@
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/mortalis91/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mortalis91&theme=blue-green)](https://github.com/mortalis91/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mortalis91&theme=blue-green)](https://github.com/mortalis91/github-readme-stats)
 
 [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/mortalis91/open-source-badges/)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/mortalis91/ama)
