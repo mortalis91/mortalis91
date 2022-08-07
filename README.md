@@ -5,7 +5,7 @@ REPOSITORY: <br/>
 ![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label) [TIPS FOR BASH](https://github.com/mortalis91/learnIT/blob/main/TIPS_FOR_BASH) <br/>
 
 CONTACT: <br/>
-[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://https://discord.com/) ![](https://dcbadge.vercel.app/api/shield/418770751634800650) <br/>
+[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://https://discord.com/) ![](https://dcbadge.vercel.app/api/shield/418770751634800650?style=flat) <br/>
 [![Twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com) @mortalis_91 <br/>
 
 [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/mortalis91/open-source-badges/)
