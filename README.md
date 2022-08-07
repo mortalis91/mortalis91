@@ -2,7 +2,7 @@
 
 REPOSITORY:
 [![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/) TIPS FOR VIM
-![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label TIPS FOR BASH
+![Terminal](https://badgen.net/badge/icon/terminal?icon=terminal&label) TIPS FOR BASH
 
 CONTACT:
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://https://discord.com/) mortalis91#6875
